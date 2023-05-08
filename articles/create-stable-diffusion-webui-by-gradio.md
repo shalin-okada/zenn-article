@@ -31,7 +31,7 @@ touch requirements.txt main.py
 その次に必要なパッケージ類をインストールします。
 以下のパッケージをrequirements.txtに記載します。
 
-```bash
+```plain:requirements.txt
 gradio
 diffusers
 ```
