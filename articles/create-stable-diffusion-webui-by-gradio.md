@@ -2,8 +2,8 @@
 title: "GradioでStableDiffusionのWebUIを自作してみた"
 emoji: "💄"
 type: "tech"
-topics: ["gradio", "stablediffusion"]
-published: false
+topics: ["gradio", "stablediffusion", "python", "diffusers"]
+published: true
 publication_name: "climt"
 ---
 
